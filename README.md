@@ -1,5 +1,5 @@
 ### Roadmap
-- Build APIs simple with Tensorflow.(We have guide document for members subscribe)
+- Build APIs simple with Tensorflow.(We have guide documents for members subscribe)
 - Train 1,7 billion data from Reddit.
 - Solved: What had redditors laughing, bickering, and NSFW-ing this spring? (https://www.kaggle.com/reddit/reddit-comments-may-2015)
 
