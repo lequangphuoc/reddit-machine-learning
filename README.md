@@ -19,5 +19,5 @@
 
 
 ### Practices
-- 1. [Hướng dẫn cài đặt và sử dụng Tensorflow](https://github.com/machinelearningvn/reddit-machine-learning/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t-v%C3%A0-s%E1%BB%AD-d%E1%BB%A5ng-Tensorflow)
-- 2. [Cơ bản về tensorflow](https://github.com/machinelearningvn/reddit-machine-learning/wiki/C%C6%A1-b%E1%BA%A3n-v%E1%BB%81-tensorflow)
+1. [Hướng dẫn cài đặt và sử dụng Tensorflow](https://github.com/machinelearningvn/reddit-machine-learning/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t-v%C3%A0-s%E1%BB%AD-d%E1%BB%A5ng-Tensorflow)
+2. [Cơ bản về tensorflow](https://github.com/machinelearningvn/reddit-machine-learning/wiki/C%C6%A1-b%E1%BA%A3n-v%E1%BB%81-tensorflow)
