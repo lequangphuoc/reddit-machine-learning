@@ -13,3 +13,6 @@
 - Phan Thanh Phat (https://fb.com/phatphancom)
 - Nguyen Quang Huy (https://fb.com/nasa8xcom)
 - Ha Viet Hoang (https://fb.com/hahoang611990)
+- Huy Tran (https://fb.com/kingbazoka)
+- Nguyen Duc Quy (https://fb.com/nguyen.d.quy.988)
+- Thanh Quan (https://www.fb.com/thanhquanky)
